@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hiya 👋
+
+Welcome to my Github!
+
+<div id="header" align="center">
+  <img src="https://64.media.tumblr.com/2e8483a58320320cc84bdf3e6595b0f3/tumblr_miw10wZGwQ1rmtenjo3_250.gif" width="100"/>
+</div>
 
 <!--
 **matbatten/matbatten** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
