@@ -9,10 +9,10 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="your-linkedin-URL">
+  <a href="www.linkedin.com/in/mat-batten">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-linkedin-URL">
+  <a href="https://www.instagram.com/mat_bat10/">
     <img src="https://img.shields.io/badge/Instagram-blueviolet?style=for-the-badge&         logo=instagram&logoColor=white" alt="Insta Badge"/>
   </a>
   <br/>
